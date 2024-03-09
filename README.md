@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, mi nombre es Leandro Gomez 👋
 
 <!--
 **LeandroNahuelGomez/LeandroNahuelGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
