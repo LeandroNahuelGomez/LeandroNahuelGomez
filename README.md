@@ -1,14 +1,14 @@
 ## Hola, Mi nombre es Leandro Gomez👋
-#### Android App Developer, UI/UX Developer and maker for social good!
+#### Estudiante de Tecnicatura en Sistemas, apasionado por la programacion!
 
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on WeConnect, an android app as a personal project 
-- 🌱 I’m currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math! 
-- 👯 I’m looking to collaborate on Android apps and conference events 
-- 📫 How to reach me: sabiha.shaik121@gmail.com 
-- ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
+- 🔭 Actualmente estoy desarrollando un proyecto personal en el que aplico mis conocimientos en los lenguajes de programación Java y MySQL. Mi objetivo es implementar y gestionar la lógica de negocio a nivel de backend, teniendo en cuenta aspectos clave como la estructura de bases de datos relacionales, la implementación de consultas eficientes, y el diseño de una arquitectura sólida y escalable. Además, me enfoco en garantizar buenas prácticas de programación orientada a objetos, manejo de excepciones, y optimización del rendimiento del sistema.
+- 🌱 En cuatrimestre actual, estoy profundizando en lenguajes como Java y MySQL, lo que me ha permitido desarrollar habilidades en la programación orientada a objetos y la gestión de bases de datos relacionales. Sin embargo, en el cuatrimestre pasado he adquirido conocimientos importantes sobre Python.  
+- 👯 Estoy buscando poder tener mi primer inserccion en el mundo laboral IT y poder crecer profesionalmente
+- 📫 Como comunicarse conmigo: lean.nahu.gomez@gmail.com 
+- ⚡ Dato curioso: me gusta contribuir al bien comun, ayudando y explicando a mis pares lo que necesiten para poder lograr el objetivo.
 
 ### Upcoming Events 🌐
 - 🏆 I've been recently been selected as the finalist for 'IT Graduate of the Year' Award by Women Tech, Vote [here](https://www.womentech.net/nominee/Sabiha/Shaik/46664)
