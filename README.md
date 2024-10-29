@@ -1,4 +1,4 @@
-# 👋Hi, I'm Leandro!
+<h1 align="center">👋Hi, I'm Leandro!</h1>
 
 <p aling="center">
  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="my banner"></a>
@@ -7,7 +7,7 @@
 <h2 align="center">I'm a Tecnicatura en Sistemas Student :computer: , and passionate about programming :chart_with_upwards_trend:</h2>
 
 
- ### Que es lo que hago: 
+ ### :bulb: What I do: 
  
 - 🔭 Actualmente estoy desarrollando un proyecto personal en el que aplico mis conocimientos en los lenguajes de programación Java y MySQL. Mi objetivo es implementar y gestionar la lógica de negocio a nivel de backend, teniendo en cuenta aspectos clave como la estructura de bases de datos relacionales, la implementación de consultas eficientes, y el diseño de una arquitectura sólida y escalable. Además, me enfoco en garantizar buenas prácticas de programación orientada a objetos, manejo de excepciones, y optimización del rendimiento del sistema.
 - 🌱 En cuatrimestre actual, estoy profundizando en lenguajes como Java y MySQL, lo que me ha permitido desarrollar habilidades en la programación orientada a objetos y la gestión de bases de datos relacionales. Sin embargo, en el cuatrimestre pasado he adquirido conocimientos importantes sobre Python.  
@@ -16,9 +16,7 @@
 - ⚡ Dato curioso: me gusta contribuir al bien comun, ayudando y explicando a mis pares lo que necesiten para poder lograr el objetivo.
 
 
-
-<h3 align = "center">Tecnologias </h3>
-<hr><br>
+<h2 align = "center">:computer: Tech Stak</h2>
 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -31,19 +29,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-### Stats
-
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroNahuelGomez&theme=tokyonight&show_icons=true)
 
-
+## ⌨️ Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNahuelGomez&layout=compact)
- 
-### Connect
 
 
-<p align="left"> <a href="https://discord.com/users/leangomezz_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LeandroNahuelGomez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_leangomez_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
- ## 📩 Connect
+ ## 📩 Connect with me
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
 
 <p align="left" >
