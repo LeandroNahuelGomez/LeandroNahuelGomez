@@ -4,9 +4,8 @@
  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="my banner"></a>
 </p>
 
-<h2>I'm a Tecnicatura en Sistemas student, and passionate about programming</h2>
+<h2 align="center">I'm a Tecnicatura en Sistemas Student :computer: , and passionate about programming :chart_with_upwards_trend:</h2>
 
-#### Estudiante de Tecnicatura en Sistemas, apasionado por la programacion!
 
  ### Que es lo que hago: 
  
@@ -38,6 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNahuelGomez&layout=compact)
  
-### Reach me
+### Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sabihashaik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://sabiha.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leandronahuelgomez/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]()  
  
