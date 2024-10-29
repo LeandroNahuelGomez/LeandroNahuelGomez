@@ -1,4 +1,4 @@
-## Hola, Mi nombre es Leandro Gomez👋
+## Hi!  My name is Leandro Gomez👋
 #### Estudiante de Tecnicatura en Sistemas, apasionado por la programacion!
 
 
