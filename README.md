@@ -1,8 +1,10 @@
-# 👋Hi, I'm Leandro!
+<h1 align="center">👋Hi, I'm Leandro!</h1>
 
 <p aling="center">
  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="my banner"></a>
 </p>
+
+<h2>I'm a Tecnicatura en Sistemas student, and passionate about programming</h2>
 
 #### Estudiante de Tecnicatura en Sistemas, apasionado por la programacion!
 
