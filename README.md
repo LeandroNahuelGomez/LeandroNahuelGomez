@@ -12,7 +12,7 @@
 - 📫 Como comunicarse conmigo: lean.nahu.gomez@gmail.com 
 - ⚡ Dato curioso: me gusta contribuir al bien comun, ayudando y explicando a mis pares lo que necesiten para poder lograr el objetivo.
 
-
+![Leandro Gomez](https://github.com/user-attachments/assets/7e21e7ba-624d-4826-a4b0-fd80c82a3629)
 
 <h3 align = "center">SKILLS</h3>
 <hr><br>
