@@ -1,4 +1,6 @@
-<h1 align="center">👋Hi, I'm Leandro!</h1>
+# 👋Hi, I'm Leandro!
+
+
 
 <p aling="center">
  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="my banner"></a>
@@ -16,7 +18,8 @@
 - ⚡ Dato curioso: me gusta contribuir al bien comun, ayudando y explicando a mis pares lo que necesiten para poder lograr el objetivo.
 
 
-<h3 align = "center">SKILLS</h3>
+
+<h3 align = "center">Tecnologias </h3>
 <hr><br>
 
 <p align="center">
