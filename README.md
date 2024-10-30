@@ -8,13 +8,12 @@
 
 
  ### :bulb: What I do: 
- 
-- 🔭 Actualmente estoy desarrollando un proyecto personal en el que aplico mis conocimientos en los lenguajes de programación Java y MySQL. Mi objetivo es implementar y gestionar la lógica de negocio a nivel de backend, teniendo en cuenta aspectos clave como la estructura de bases de datos relacionales, la implementación de consultas eficientes, y el diseño de una arquitectura sólida y escalable. Además, me enfoco en garantizar buenas prácticas de programación orientada a objetos, manejo de excepciones, y optimización del rendimiento del sistema.
-- 🌱 En cuatrimestre actual, estoy profundizando en lenguajes como Java y MySQL, lo que me ha permitido desarrollar habilidades en la programación orientada a objetos y la gestión de bases de datos relacionales. Sin embargo, en el cuatrimestre pasado he adquirido conocimientos importantes sobre Python.  
-- 👯 Estoy buscando poder tener mi primer inserccion en el mundo laboral IT y poder crecer profesionalmente
-- 📫 Como comunicarse conmigo: lean.nahu.gomez@gmail.com 
-- ⚡ Dato curioso: me gusta contribuir al bien comun, ayudando y explicando a mis pares lo que necesiten para poder lograr el objetivo.
 
+- 🔭 I am currently developing a personal project where I apply my knowledge in Java and MySQL programming languages. My objective is to implement and manage backend business logic, focusing on key aspects such as relational database structure, efficient query implementation, and designing a solid and scalable architecture. Additionally, I prioritize good object-oriented programming practices, exception handling, and system performance optimization.  
+- 🌱 This semester, I am deepening my skills in languages like Java and MySQL, which has allowed me to strengthen my knowledge of object-oriented programming and relational database management. However, last semester, I also acquired significant knowledge in Python.  
+- 👯 I am seeking my first opportunity in the IT field to enter the professional world and grow my career.  
+- 📫 How to reach me: lean.nahu.gomez@gmail.com  
+- ⚡ Fun fact: I enjoy contributing to the common good, helping and explaining things to my peers to help them achieve our goals."
 
 <h2 align = "center">:computer: Tech Stak</h2>
 
@@ -44,14 +43,5 @@
         <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     <a href="http://instagram.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
     <a href="https://twitter.com/jesuslagares_" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a945cf2f-0c6b-4fe1-b676-9a804029c7ec" width="45"></a>
-      <a href="https://www.youtube.com/c/Jes%C3%BAsLagares" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059795-66f4370f-8697-42b5-bcb4-b83ebc10f721.png"  width="45"></a>
 </p>
 
-![comunicacion]
-
-
-
-
-
-
- 
