@@ -42,6 +42,8 @@
       <a href="mailto:lean.nahu.gomez@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     <a href="https://instagram.com/_leangomez_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
-    <a href="https://www.discord.com/leangomezz_" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a945cf2f-0c6b-4fe1-b676-9a804029c7ec" width="45"></a>
+    <a href="https://discord.com/users/leango#5469" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a945cf2f-0c6b-4fe1-b676-9a804029c7ec" width="45"></a>
 </p>
+
+
 
