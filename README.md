@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="Leandro Gomez Banner">
+    <img src="LEANDRO GOMEZ (2).png" alt="Leandro Gomez Banner">
   </a>
 </p>
 
