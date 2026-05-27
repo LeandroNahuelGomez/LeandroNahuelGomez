@@ -1,49 +1,124 @@
-<h1 align="center">👋Hi, I'm Leandro!</h1>
-
-<p aling="center">
- <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="my banner"></a>
-</p>
-
-<h2 align="center">I'm a Tecnicatura en Sistemas Student :computer: , and passionate about programming :chart_with_upwards_trend:</h2>
-
-
- ### :bulb: What I do: 
-
-- 🔭 I am currently developing a personal project where I apply my knowledge in Java and MySQL programming languages. My objective is to implement and manage backend business logic, focusing on key aspects such as relational database structure, efficient query implementation, and designing a solid and scalable architecture. Additionally, I prioritize good object-oriented programming practices, exception handling, and system performance optimization.  
-- 🌱 This semester, I am deepening my skills in languages like Java and MySQL, which has allowed me to strengthen my knowledge of object-oriented programming and relational database management. However, last semester, I also acquired significant knowledge in Python.  
-- 👯 I am seeking my first opportunity in the IT field to enter the professional world and grow my career.  
-- 📫 How to reach me: lean.nahu.gomez@gmail.com  
-- ⚡ Fun fact: I enjoy contributing to the common good, helping and explaining things to my peers to help them achieve our goals."
-
-<h2 align = "center">:computer: Tech Stak</h2>
+<h1 align="center">👋 Hi, I'm Leandro Gomez!</h1>
 
 <p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/ee2573e9-0329-49e0-ad08-85105827d563" alt="Leandro Gomez Banner">
+  </a>
 </p>
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroNahuelGomez&theme=tokyonight&show_icons=true)
+<h3 align="center">
+🚀 Full Stack & Mobile Developer | TypeScript • NestJS • Angular • Ionic
+</h3>
 
-## ⌨️ Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNahuelGomez&layout=compact)
-
-
- ## 📩 Connect with me
-* Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
-
-<p align="left" >
-      <a href="mailto:lean.nahu.gomez@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-        <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
-    <a href="https://instagram.com/_leangomez_" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
-    <a href="https://discord.com/users/leango#5469" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a945cf2f-0c6b-4fe1-b676-9a804029c7ec" width="45"></a>
+<p align="center">
+  Passionate about scalable backend architecture, real-time systems, and building complete end-to-end applications.
 </p>
 
+---
 
+## 💡 About Me
 
+I'm a **Full Stack & Mobile Developer** focused on the modern **JavaScript/TypeScript ecosystem**.
+
+I specialize in:
+- 🏗️ Building scalable backend architectures with **NestJS, Node.js & Express**
+- 📱 Developing cross-platform mobile apps with **Ionic & Angular**
+- ⚡ Implementing **real-time communication** using **WebSockets & Firebase**
+- 🔐 Creating secure authentication systems with **JWT & Guards**
+- 🧠 Applying **Clean Architecture** and **SOLID principles**
+- ☁️ Deploying fullstack applications using **Vercel, Render & Docker**
+
+Currently focused on improving:
+- 🐳 Docker & containerized environments
+- 🧪 API testing and backend best practices
+- 📈 Scalable system design
+
+*When I'm not coding, I'm usually hitting the gym, playing the guitar, or creating video content about personal growth and discipline.*
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,angular,mongodb,mysql,firebase,docker,git,github,postman,vercel" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,vscode,androidstudio" />
+  </a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📱 Restaurant Management App
+
+Cross-platform mobile application focused on restaurant operations and order management.
+
+### 🔥 Features
+- Real-time order synchronization using **WebSockets**
+- Mobile-first UI built with **Ionic & Angular**
+- Backend API built with **Express & TypeScript**
+- Firebase integration for:
+  - Authentication
+  - Real-time persistence
+  - Multimedia storage
+- Clean Architecture implementation
+- Responsive and reusable component system
+
+### 🛠️ Stack
+`Ionic` `Angular` `Express` `Firebase` `TypeScript` `WebSockets`
+
+---
+
+## 🌐 Social Network API & Web
+
+Fullstack social platform focused on scalable backend architecture and secure authentication flows.
+
+### 🔥 Features
+- Modular REST API architecture using **NestJS**
+- JWT authentication & authorization
+- Protected routes using **Angular Guards**
+- DTO validation & Pipes
+- MongoDB optimized collections
+- Frontend and backend deployments with **Vercel & Render**
+
+### 🛠️ Stack
+`NestJS` `Angular` `MongoDB` `JWT` `TypeScript`
+
+---
+
+# 📚 Currently Learning
+
+- 🐳 Docker & Containerization
+- 🧪 Advanced API Testing
+- ⚙️ Backend scalability patterns
+- ☁️ Cloud infrastructure concepts
+
+---
+
+# 📩 Let's Connect
+
+<p align="center">
+  <a href="mailto:lean.nahu.gomez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/leandronahuelgomez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/LeandroNahuelGomez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build systems that scale. Build products that matter."</i>
+</p>
